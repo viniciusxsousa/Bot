@@ -13,3 +13,7 @@ Elemento de um botão de compartilhamento para projetos.
 * JavaScript
 
 ### :desktop_computer: Previa
+
+
+https://user-images.githubusercontent.com/81489425/215817846-6b31fd59-074a-4e9d-8c2c-7bf78c2f5630.mp4
+
