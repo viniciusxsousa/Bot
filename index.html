@@ -5,18 +5,30 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
+
+    <script src="https://kit.fontawesome.com/17e284d858.js" crossorigin="anonymous"></script>
+
     <title>Botão Compartilhamento</title>
 </head>
 <body>
-    <div class="conteiner active">
+    <div class="conteiner">
         <button class="btn">
-            <span class="icon-share"></span>
+            <i class="fas fa-share-alt"></i>
+            <!-- <i class="fas fa-times"></i> -->
         </button>
+       
         <ul class="list">
             <li class="list__item">
-                <a href="#" class="link" target="_blank">oi</a>
+                <a href="#" class="link" target="_blank"><span><i class="fa-brands fa-linkedin"></i></span></a>
+            </li>
+            <li class="list__item">
+                <a href="#" class="link" target="_blank"><span><i class="fab fa-github"></i></span></a>
+            </li>
+            <li class="list__item">
+                <a href="#" class="link" target="_blank"><span><i class="fas fa-globe"></i></span></a>
             </li>
         </ul>
     </div>
+    <script src="app.js"></script>
 </body>
 </html>
