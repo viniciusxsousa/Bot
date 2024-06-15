@@ -1,4 +1,4 @@
-#Botão de compartilhar
+# Botão de compartilhar
 Elemento de um botão de compartilhamento para projetos.
 
 ### :arrow_forward: Como aplicar
